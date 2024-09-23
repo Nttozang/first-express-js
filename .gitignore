@@ -1,0 +1,14 @@
+# ละเว้นโฟลเดอร์ node_modules
+node_modules/
+
+# ละเว้นไฟล์ที่สร้างขึ้น
+dist/
+build/
+
+# ละเว้นไฟล์การตั้งค่า IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ละเว้นไฟล์ environment
+.env
